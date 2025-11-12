@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doctory-xi.vercel.app/sitemap.xml
